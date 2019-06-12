@@ -17,5 +17,5 @@ require_once(APPLICATION_PATH."/models/debugModel.php");
 require_once(APPLICATION_PATH."/views/helpers/formHelper.php");
 	
 require(APPLICATION_PATH."/bootstrap.php");
-
+/*Esto es un comentario*/
 ?>
